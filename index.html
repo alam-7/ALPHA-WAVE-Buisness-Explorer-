@@ -4,157 +4,173 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="theme-color" content="#080d19">
-  <meta name="description" content="Explore and research business opportunities across India with Alpha Wave Business Explorer.">
-  <title>Business Explorer | ALPHA WAVE</title>
+  <meta name="theme-color" content="#ffffff">
+  <meta name="description" content="ALPHA WAVE Business Explorer — discover and research business opportunities in India.">
+  <title>ALPHA WAVE | Business Explorer</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
-  <header class="topbar">
-    <a href="#" class="brand">
-      <span class="brand-mark">AW</span>
-      <span>
-        <strong>ALPHA WAVE</strong>
-        <small>CREATE • COMPETE • CONNECT • EVOLVE</small>
-      </span>
-    </a>
+<header class="header">
+  <a href="#" class="brand">
+    <span class="brand-logo">AW</span>
+    <span class="brand-text">
+      <strong>ALPHA WAVE</strong>
+      <small>BUSINESS EXPLORER</small>
+    </span>
+  </a>
 
-    <nav>
-      <a href="#explore">Explore</a>
-      <a href="#categories">Categories</a>
-      <a href="#about">About</a>
-    </nav>
+  <nav class="navigation">
+    <a href="#home">Home</a>
+    <a href="#categories">Categories</a>
+    <a href="#explore">Explore Businesses</a>
+    <a href="#about">About</a>
+  </nav>
 
-    <div class="header-actions">
-      <button id="themeToggle" class="icon-btn" aria-label="Change theme">☀</button>
-      <span class="premium-label">PREMIUM — SOON</span>
-    </div>
-  </header>
+  <div class="header-right">
+    <span class="india-label">INDIA EDITION</span>
+    <button id="savedFilter" class="outline-button">★ Saved</button>
+  </div>
+</header>
 
-  <main>
-    <section class="hero">
-      <div class="hero-content">
-        <span class="eyebrow">INDIA BUSINESS DISCOVERY PLATFORM</span>
-        <h1>Discover your next<br><span>business opportunity.</span></h1>
-        <p>
-          Explore business concepts, understand industries,
-          compare opportunities and plan your next move.
-        </p>
-        <a href="#explore" class="primary-btn">Explore Businesses →</a>
-      </div>
+<main>
 
-      <div class="hero-card">
-        <span class="card-kicker">ALPHA WAVE INTELLIGENCE</span>
-        <div class="hero-number">100</div>
-        <h3>Business Concepts</h3>
-        <p>Across 10 major industry categories.</p>
-        <div class="hero-line"></div>
-        <div class="hero-stats">
-          <span>INDIA FOCUS</span>
-          <span>RESEARCH-LED</span>
-        </div>
-      </div>
-    </section>
-
-    <section class="stats-grid">
-      <article class="stat-card">
-        <span>Business concepts</span>
-        <strong id="totalCount">100</strong>
-      </article>
-      <article class="stat-card">
-        <span>Categories</span>
-        <strong id="categoryCount">10</strong>
-      </article>
-      <article class="stat-card">
-        <span>Saved businesses</span>
-        <strong id="savedCount">0</strong>
-      </article>
-    </section>
-
-    <section id="categories" class="section">
-      <div class="section-heading">
-        <div>
-          <span class="eyebrow">DISCOVER INDUSTRIES</span>
-          <h2>Explore categories</h2>
-        </div>
-      </div>
-      <div id="categoryGrid" class="category-grid"></div>
-    </section>
-
-    <section id="explore" class="section">
-      <div class="section-heading">
-        <div>
-          <span class="eyebrow">THE OPPORTUNITY LIBRARY</span>
-          <h2>Explore businesses</h2>
-          <p>Discover ideas and open a profile to explore more.</p>
-        </div>
-      </div>
-
-      <div class="filters">
-        <input id="searchInput" type="search"
-          placeholder="Search business, industry or keyword...">
-
-        <select id="categoryFilter">
-          <option value="all">All categories</option>
-        </select>
-
-        <select id="sortFilter">
-          <option value="name">Name: A–Z</option>
-          <option value="name-desc">Name: Z–A</option>
-        </select>
-
-        <button id="savedFilter" class="secondary-btn">
-          ★ Saved
-        </button>
-      </div>
-
-      <div class="results-info">
-        <span id="resultCount">Loading businesses...</span>
-      </div>
-
-      <div id="businessGrid" class="business-grid">
-        <p>Loading business catalogue...</p>
-      </div>
-    </section>
-
-    <section class="research-banner">
-      <div>
-        <span class="eyebrow">MAKE INFORMED DECISIONS</span>
-        <h2>Research before you invest.</h2>
-        <p>
-          Business profiles are educational starting points.
-          Verify costs, suppliers, market conditions and legal
-          requirements independently before making decisions.
-        </p>
-      </div>
-      <span class="research-symbol">AW</span>
-    </section>
-
-    <section id="about" class="section about-section">
-      <span class="eyebrow">ABOUT THE PLATFORM</span>
-      <h2>Built for curious minds and future builders.</h2>
+<section id="home" class="hero">
+  <div class="hero-inner">
+    <div class="hero-copy">
+      <span class="eyebrow">YOUR BUSINESS DISCOVERY PLATFORM</span>
+      <h1>Explore opportunities.<br>
+        <span>Build your future.</span>
+      </h1>
       <p>
-        ALPHA WAVE Business Explorer is an India-focused
-        business discovery and educational research platform.
+        Discover business ideas, explore industries and access
+        structured research to understand opportunities across India.
       </p>
-      <p class="tagline">CREATE • COMPETE • CONNECT • EVOLVE</p>
-    </section>
-  </main>
+      <a href="#explore" class="primary-button">Explore Businesses →</a>
+    </div>
 
-  <footer>
-    <strong>ALPHA WAVE</strong>
-    <p>Business Explorer · Educational research platform</p>
-    <small>© 2026 ALPHA WAVE. All rights reserved.</small>
-  </footer>
+    <div class="hero-panel">
+      <div class="panel-top">
+        <span>ALPHA WAVE INTELLIGENCE</span>
+        <span class="live-dot"></span>
+      </div>
+      <div class="panel-number">100<span>+</span></div>
+      <h3>Business Opportunities</h3>
+      <p>Explore ideas across 10 industry categories.</p>
+      <div class="panel-divider"></div>
+      <div class="panel-bottom">
+        <span>INDIA FOCUSED</span>
+        <span>RESEARCH LED</span>
+      </div>
+    </div>
+  </div>
+</section>
 
-  <div id="businessModal" class="modal" aria-hidden="true">
-    <div class="modal-content">
-      <button id="closeModal" class="close-btn" aria-label="Close">×</button>
-      <div id="modalBody"></div>
+<section class="stats">
+  <div class="stat">
+    <span>Business ideas</span>
+    <strong id="totalCount">100</strong>
+  </div>
+  <div class="stat">
+    <span>Industry categories</span>
+    <strong>10</strong>
+  </div>
+  <div class="stat">
+    <span>Your saved ideas</span>
+    <strong id="savedCount">0</strong>
+  </div>
+</section>
+
+<section id="categories" class="section">
+  <div class="section-heading">
+    <div>
+      <span class="eyebrow">BROWSE INDUSTRIES</span>
+      <h2>Explore by category</h2>
+      <p>Choose an industry to discover relevant business opportunities.</p>
+    </div>
+  </div>
+  <div id="categoryGrid" class="category-grid"></div>
+</section>
+
+<section id="explore" class="section explore-section">
+  <div class="section-heading">
+    <div>
+      <span class="eyebrow">BUSINESS DIRECTORY</span>
+      <h2>Find your business opportunity</h2>
+      <p>Search, filter and explore the business catalogue.</p>
     </div>
   </div>
 
-  <script src="app.js"></script>
+  <div class="search-panel">
+    <div class="search-box">
+      <span>⌕</span>
+      <input id="searchInput" type="search"
+        placeholder="Search business ideas, industries or keywords...">
+    </div>
+
+    <select id="categoryFilter">
+      <option value="all">All categories</option>
+    </select>
+
+    <select id="sortFilter">
+      <option value="name">Name: A–Z</option>
+      <option value="name-desc">Name: Z–A</option>
+    </select>
+
+    <button id="clearFilters" class="outline-button">Clear filters</button>
+  </div>
+
+  <div class="directory-toolbar">
+    <span id="resultCount">Loading business directory...</span>
+    <span>Browse all opportunities</span>
+  </div>
+
+  <div id="businessGrid" class="business-grid">
+    <div class="loading">Loading business catalogue...</div>
+  </div>
+</section>
+
+<section class="research-section">
+  <div>
+    <span class="eyebrow">MAKE INFORMED DECISIONS</span>
+    <h2>Research. Understand. Plan.</h2>
+    <p>
+      Explore business models, market evidence, equipment,
+      costs, regulations and operational requirements.
+      Always verify information before making decisions.
+    </p>
+  </div>
+  <div class="research-icon">AW</div>
+</section>
+
+<section id="about" class="section about-section">
+  <span class="eyebrow">ABOUT ALPHA WAVE</span>
+  <h2>A platform for business discovery.</h2>
+  <p>
+    ALPHA WAVE Business Explorer is an India-focused platform
+    designed to organise business opportunities and provide
+    accessible educational research.
+  </p>
+  <p class="brand-tagline">CREATE • COMPETE • CONNECT • EVOLVE</p>
+</section>
+
+</main>
+
+<footer>
+  <div>
+    <strong>ALPHA WAVE</strong>
+    <p>Business Explorer · India Edition</p>
+  </div>
+  <small>© 2026 ALPHA WAVE. All rights reserved.</small>
+</footer>
+
+<div id="businessModal" class="modal" aria-hidden="true">
+  <div class="modal-content">
+    <button id="closeModal" class="modal-close" aria-label="Close">×</button>
+    <div id="modalBody"></div>
+  </div>
+</div>
+
+<script src="app.js"></script>
 </body>
 </html>
