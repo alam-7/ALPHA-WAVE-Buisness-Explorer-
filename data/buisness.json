@@ -1,0 +1,1012 @@
+
+[
+  {
+    "id": "fin-001",
+    "name": "Financial Literacy Platform",
+    "category": "Finance & FinTech",
+    "description": "Digital financial education for students and individuals.",
+    "overview": "An online platform teaching budgeting, saving, credit awareness and financial fundamentals.",
+    "customers": "Students, young adults, families and educational institutions.",
+    "model": "Course fees, institutional subscriptions and educational partnerships.",
+    "research_status": "Concept only — commercial and regulatory research pending."
+  },
+  {
+    "id": "fin-002",
+    "name": "SME Accounting Software",
+    "category": "Finance & FinTech",
+    "description": "Accounting and invoicing software for small businesses.",
+    "overview": "A software service helping small businesses organise invoices, expenses and financial records.",
+    "customers": "Retailers, traders, consultants and small enterprises.",
+    "model": "Monthly software subscriptions and optional support services.",
+    "research_status": "Concept only — product and market validation pending."
+  },
+  {
+    "id": "fin-003",
+    "name": "Digital Bookkeeping Agency",
+    "category": "Finance & FinTech",
+    "description": "Remote bookkeeping support for small companies.",
+    "overview": "A service business maintaining organised financial records for client businesses.",
+    "customers": "Small businesses, freelancers and local enterprises.",
+    "model": "Monthly service contracts and bookkeeping packages.",
+    "research_status": "Concept only — professional and compliance requirements pending."
+  },
+  {
+    "id": "fin-004",
+    "name": "Invoice Management Platform",
+    "category": "Finance & FinTech",
+    "description": "Digital invoice creation and tracking tools.",
+    "overview": "A platform that helps businesses prepare invoices and monitor payment status.",
+    "customers": "Freelancers, wholesalers, service providers and SMEs.",
+    "model": "Subscriptions and business software plans.",
+    "research_status": "Concept only — market validation pending."
+  },
+  {
+    "id": "fin-005",
+    "name": "Financial Planning Education",
+    "category": "Finance & FinTech",
+    "description": "Educational workshops about personal money management.",
+    "overview": "A learning service explaining financial planning concepts without providing unlicensed investment advice.",
+    "customers": "Students, working professionals and community organisations.",
+    "model": "Workshop fees and educational partnerships.",
+    "research_status": "Concept only — professional boundaries require review."
+  },
+  {
+    "id": "fin-006",
+    "name": "Expense Tracking Application",
+    "category": "Finance & FinTech",
+    "description": "A simple personal expense recording application.",
+    "overview": "A mobile or web application for recording expenses and organising budgets.",
+    "customers": "Students, families and working professionals.",
+    "model": "Freemium software and optional subscriptions.",
+    "research_status": "Concept only — product validation pending."
+  },
+  {
+    "id": "fin-007",
+    "name": "Business Credit Education Service",
+    "category": "Finance & FinTech",
+    "description": "Educational resources explaining business credit.",
+    "overview": "A service explaining credit reports, lending terminology and responsible borrowing.",
+    "customers": "Entrepreneurs, shop owners and small enterprises.",
+    "model": "Educational courses and institutional partnerships.",
+    "research_status": "Concept only — legal and professional review pending."
+  },
+  {
+    "id": "fin-008",
+    "name": "Tax Documentation Software",
+    "category": "Finance & FinTech",
+    "description": "Document organisation software for tax preparation.",
+    "overview": "A digital workspace for organising receipts, invoices and tax-related documents.",
+    "customers": "Small businesses, freelancers and accountants.",
+    "model": "Software subscriptions and business plans.",
+    "research_status": "Concept only — tax-law compliance review pending."
+  },
+  {
+    "id": "fin-009",
+    "name": "Financial Dashboard for SMEs",
+    "category": "Finance & FinTech",
+    "description": "Business reporting and financial dashboard software.",
+    "overview": "A dashboard presenting business revenue, expenses and operational indicators.",
+    "customers": "Small businesses and growing companies.",
+    "model": "Monthly subscriptions and customised dashboard services.",
+    "research_status": "Concept only — technical and market validation pending."
+  },
+  {
+    "id": "fin-010",
+    "name": "Financial Education Content Studio",
+    "category": "Finance & FinTech",
+    "description": "Educational financial content for organisations.",
+    "overview": "A content production business creating explainers, videos and learning material about finance.",
+    "customers": "Schools, publishers, businesses and educational platforms.",
+    "model": "Project fees, content licensing and retainers.",
+    "research_status": "Concept only — client demand validation pending."
+  },
+
+  {
+    "id": "soft-001",
+    "name": "AI Customer Support Software",
+    "category": "B2B SaaS, AI & Software",
+    "description": "Automated customer support tools for businesses.",
+    "overview": "A software platform that helps businesses organise customer questions and support workflows.",
+    "customers": "Online stores, service companies and SMEs.",
+    "model": "Monthly subscriptions based on usage and features.",
+    "research_status": "Concept only — technical and market validation pending."
+  },
+  {
+    "id": "soft-002",
+    "name": "AI Document Processing Service",
+    "category": "B2B SaaS, AI & Software",
+    "description": "Software for extracting information from business documents.",
+    "overview": "A document automation service that helps organise and process business paperwork.",
+    "customers": "Accountants, logistics firms and administrative departments.",
+    "model": "Usage-based fees and subscriptions.",
+    "research_status": "Concept only — accuracy and privacy testing pending."
+  },
+  {
+    "id": "soft-003",
+    "name": "Business Website Development Agency",
+    "category": "B2B SaaS, AI & Software",
+    "description": "Professional websites for local and growing businesses.",
+    "overview": "A digital agency designing and maintaining business websites.",
+    "customers": "Retailers, manufacturers, professionals and startups.",
+    "model": "Project charges and website maintenance contracts.",
+    "research_status": "Concept only — local competition research pending."
+  },
+  {
+    "id": "soft-004",
+    "name": "Inventory Management Software",
+    "category": "B2B SaaS, AI & Software",
+    "description": "Stock tracking and inventory software.",
+    "overview": "A software solution for monitoring stock levels, purchases and sales.",
+    "customers": "Retail stores, distributors and warehouses.",
+    "model": "Monthly software subscriptions.",
+    "research_status": "Concept only — product validation pending."
+  },
+  {
+    "id": "soft-005",
+    "name": "Cloud-Based HR Management",
+    "category": "B2B SaaS, AI & Software",
+    "description": "Employee records and HR workflow software.",
+    "overview": "A cloud platform for organising employee information and HR processes.",
+    "customers": "Small and medium-sized companies.",
+    "model": "Per-employee subscriptions and business plans.",
+    "research_status": "Concept only — privacy and employment-law review pending."
+  },
+  {
+    "id": "soft-006",
+    "name": "Cybersecurity Awareness Training",
+    "category": "B2B SaaS, AI & Software",
+    "description": "Cybersecurity education for company employees.",
+    "overview": "A training service helping organisations improve password, phishing and data safety awareness.",
+    "customers": "Schools, SMEs and corporate teams.",
+    "model": "Training packages and annual contracts.",
+    "research_status": "Concept only — curriculum validation pending."
+  },
+  {
+    "id": "soft-007",
+    "name": "CRM Software for Local Businesses",
+    "category": "B2B SaaS, AI & Software",
+    "description": "Customer relationship management for smaller businesses.",
+    "overview": "A platform for tracking leads, customers, sales conversations and follow-ups.",
+    "customers": "Retailers, agencies and service providers.",
+    "model": "Monthly subscriptions.",
+    "research_status": "Concept only — competitor research pending."
+  },
+  {
+    "id": "soft-008",
+    "name": "AI Business Analytics Platform",
+    "category": "B2B SaaS, AI & Software",
+    "description": "Business reporting and data analysis software.",
+    "overview": "A platform that helps businesses understand operational data and trends.",
+    "customers": "SMEs, retailers and business teams.",
+    "model": "Software subscriptions and enterprise packages.",
+    "research_status": "Concept only — data quality and product validation pending."
+  },
+  {
+    "id": "soft-009",
+    "name": "Mobile App Development Studio",
+    "category": "B2B SaaS, AI & Software",
+    "description": "Custom mobile application development.",
+    "overview": "A software studio building applications for organisations and entrepreneurs.",
+    "customers": "Startups, local businesses and institutions.",
+    "model": "Development projects and maintenance contracts.",
+    "research_status": "Concept only — skills and client demand validation pending."
+  },
+  {
+    "id": "soft-010",
+    "name": "Cloud Backup Management Service",
+    "category": "B2B SaaS, AI & Software",
+    "description": "Business data backup and recovery management.",
+    "overview": "A managed service helping organisations organise backup policies and recovery planning.",
+    "customers": "SMEs, professional firms and institutions.",
+    "model": "Recurring service contracts.",
+    "research_status": "Concept only — security and infrastructure review pending."
+  },
+
+  {
+    "id": "real-001",
+    "name": "Modular Construction Components",
+    "category": "Real Estate & Construction",
+    "description": "Manufacturing modular building components.",
+    "overview": "A manufacturing business producing standardised components for construction projects.",
+    "customers": "Builders, contractors and developers.",
+    "model": "Product sales and project supply contracts.",
+    "research_status": "Concept only — engineering and building-code review pending."
+  },
+  {
+    "id": "real-002",
+    "name": "Precast Concrete Products",
+    "category": "Real Estate & Construction",
+    "description": "Precast concrete products for construction.",
+    "overview": "A production unit making concrete products using mould-based manufacturing processes.",
+    "customers": "Construction companies, infrastructure contractors and developers.",
+    "model": "Wholesale product sales and project orders.",
+    "research_status": "Concept only — machinery, quality and compliance research pending."
+  },
+  {
+    "id": "real-003",
+    "name": "Interior Design Studio",
+    "category": "Real Estate & Construction",
+    "description": "Interior planning and design services.",
+    "overview": "A design studio creating functional interior concepts for homes and commercial spaces.",
+    "customers": "Homeowners, offices and property developers.",
+    "model": "Design fees and project management charges.",
+    "research_status": "Concept only — local demand validation pending."
+  },
+  {
+    "id": "real-004",
+    "name": "Construction Material Supply",
+    "category": "Real Estate & Construction",
+    "description": "Supply of construction materials to projects.",
+    "overview": "A distribution business supplying selected construction materials to contractors and builders.",
+    "customers": "Builders, contractors and infrastructure projects.",
+    "model": "Wholesale margins and supply agreements.",
+    "research_status": "Concept only — supplier quotations and logistics research pending."
+  },
+  {
+    "id": "real-005",
+    "name": "Building Maintenance Company",
+    "category": "Real Estate & Construction",
+    "description": "Maintenance services for residential and commercial buildings.",
+    "overview": "A company coordinating routine maintenance and facility support.",
+    "customers": "Housing societies, offices and commercial properties.",
+    "model": "Annual maintenance contracts and service fees.",
+    "research_status": "Concept only — workforce and safety requirements pending."
+  },
+  {
+    "id": "real-006",
+    "name": "Architectural Visualisation Studio",
+    "category": "Real Estate & Construction",
+    "description": "3D visualisation for architectural projects.",
+    "overview": "A design service creating architectural renders and digital project presentations.",
+    "customers": "Architects, builders and property developers.",
+    "model": "Per-project rendering and design packages.",
+    "research_status": "Concept only — software and client validation pending."
+  },
+  {
+    "id": "real-007",
+    "name": "Waterproofing Services",
+    "category": "Real Estate & Construction",
+    "description": "Building waterproofing inspection and services.",
+    "overview": "A specialised construction service addressing water leakage and moisture protection.",
+    "customers": "Homeowners, housing societies and contractors.",
+    "model": "Inspection fees and project contracts.",
+    "research_status": "Concept only — technical training and product research pending."
+  },
+  {
+    "id": "real-008",
+    "name": "Construction Equipment Rental",
+    "category": "Real Estate & Construction",
+    "description": "Rental services for construction equipment.",
+    "overview": "A rental operation providing selected construction machinery and tools.",
+    "customers": "Contractors and construction companies.",
+    "model": "Hourly, daily and monthly rental charges.",
+    "research_status": "Concept only — asset cost and maintenance research pending."
+  },
+  {
+    "id": "real-009",
+    "name": "Affordable Housing Project Services",
+    "category": "Real Estate & Construction",
+    "description": "Planning and support services for affordable housing projects.",
+    "overview": "A consultancy supporting project documentation, coordination and planning.",
+    "customers": "Developers, housing organisations and project owners.",
+    "model": "Consultancy and project coordination fees.",
+    "research_status": "Concept only — legal and technical review pending."
+  },
+  {
+    "id": "real-010",
+    "name": "FRP Architectural Decor Manufacturing",
+    "category": "Real Estate & Construction",
+    "description": "Decorative FRP panels and architectural elements.",
+    "overview": "A manufacturing concept producing decorative fibreglass components for interiors and exteriors.",
+    "customers": "Architects, event venues, contractors and developers.",
+    "model": "Custom manufacturing orders and bulk supply.",
+    "research_status": "Concept only — mould, material, fire-safety and supplier research pending."
+  },
+
+  {
+    "id": "health-001",
+    "name": "Medical Equipment Distribution",
+    "category": "Healthcare & MedTech",
+    "description": "Distribution of permitted medical equipment.",
+    "overview": "A distribution business supplying selected medical equipment to healthcare organisations.",
+    "customers": "Clinics, hospitals and diagnostic centres.",
+    "model": "Product distribution and institutional supply contracts.",
+    "research_status": "Concept only — applicable medical-device regulations pending."
+  },
+  {
+    "id": "health-002",
+    "name": "Healthcare Appointment Software",
+    "category": "Healthcare & MedTech",
+    "description": "Appointment and scheduling software for clinics.",
+    "overview": "A software platform for organising patient appointments and clinic schedules.",
+    "customers": "Clinics, hospitals and independent practitioners.",
+    "model": "Software subscriptions.",
+    "research_status": "Concept only — privacy and healthcare compliance review pending."
+  },
+  {
+    "id": "health-003",
+    "name": "Diagnostic Centre Support Services",
+    "category": "Healthcare & MedTech",
+    "description": "Administrative and operational support for diagnostic centres.",
+    "overview": "A service provider supporting non-clinical operations and customer administration.",
+    "customers": "Diagnostic laboratories and healthcare facilities.",
+    "model": "Service contracts.",
+    "research_status": "Concept only — healthcare rules and scope review pending."
+  },
+  {
+    "id": "health-004",
+    "name": "Hospital Furniture Manufacturing",
+    "category": "Healthcare & MedTech",
+    "description": "Manufacturing furniture for healthcare facilities.",
+    "overview": "A manufacturing unit producing selected hospital and clinic furniture.",
+    "customers": "Hospitals, clinics and healthcare distributors.",
+    "model": "Institutional orders and product sales.",
+    "research_status": "Concept only — material and safety standards pending."
+  },
+  {
+    "id": "health-005",
+    "name": "Healthcare Staff Training",
+    "category": "Healthcare & MedTech",
+    "description": "Professional development and non-clinical training.",
+    "overview": "A training service covering administration, communication and workplace processes.",
+    "customers": "Healthcare institutions and support staff.",
+    "model": "Training contracts and workshop fees.",
+    "research_status": "Concept only — accreditation and qualification review pending."
+  },
+  {
+    "id": "health-006",
+    "name": "Medical Records Digitisation",
+    "category": "Healthcare & MedTech",
+    "description": "Digitisation and organisation of medical records.",
+    "overview": "A service converting permitted paper records into organised digital systems.",
+    "customers": "Clinics, hospitals and diagnostic facilities.",
+    "model": "Project fees and managed service contracts.",
+    "research_status": "Concept only — data protection requirements pending."
+  },
+  {
+    "id": "health-007",
+    "name": "Assistive Device Distribution",
+    "category": "Healthcare & MedTech",
+    "description": "Distribution of accessibility and mobility devices.",
+    "overview": "A business supplying appropriate assistive products to customers and institutions.",
+    "customers": "Individuals, rehabilitation centres and healthcare providers.",
+    "model": "Product sales and institutional contracts.",
+    "research_status": "Concept only — product standards and applicable licences pending."
+  },
+  {
+    "id": "health-008",
+    "name": "Telehealth Technology Services",
+    "category": "Healthcare & MedTech",
+    "description": "Technology support for remote healthcare services.",
+    "overview": "A software and operations provider supporting compliant digital healthcare delivery.",
+    "customers": "Clinics, hospitals and healthcare networks.",
+    "model": "Software subscriptions and technology contracts.",
+    "research_status": "Concept only — clinical and digital-health regulations pending."
+  },
+  {
+    "id": "health-009",
+    "name": "Laboratory Consumables Distribution",
+    "category": "Healthcare & MedTech",
+    "description": "Supply of permitted laboratory consumables.",
+    "overview": "A distribution business supplying selected laboratory materials to institutions.",
+    "customers": "Diagnostic labs, educational labs and hospitals.",
+    "model": "Wholesale supply and recurring orders.",
+    "research_status": "Concept only — product and regulatory classification pending."
+  },
+  {
+    "id": "health-010",
+    "name": "Healthcare Waste Management Services",
+    "category": "Healthcare & MedTech",
+    "description": "Compliant coordination of healthcare waste services.",
+    "overview": "A specialised service supporting authorised healthcare waste collection and handling systems.",
+    "customers": "Hospitals, clinics and laboratories.",
+    "model": "Institutional service contracts.",
+    "research_status": "Concept only — authorisation and environmental compliance essential."
+  },
+
+  {
+    "id": "energy-001",
+    "name": "Solar Panel Installation Services",
+    "category": "Energy, EV & Infrastructure",
+    "description": "Solar system planning and installation.",
+    "overview": "A business providing solar project assessment, installation coordination and maintenance.",
+    "customers": "Homeowners, commercial properties and institutions.",
+    "model": "Project service fees and maintenance contracts.",
+    "research_status": "Concept only — electrical qualifications and applicable approvals pending."
+  },
+  {
+    "id": "energy-002",
+    "name": "EV Charging Station Operations",
+    "category": "Energy, EV & Infrastructure",
+    "description": "Electric vehicle charging infrastructure.",
+    "overview": "A business developing or operating EV charging facilities where feasible.",
+    "customers": "EV owners, fleets and commercial property operators.",
+    "model": "Charging fees and location partnerships.",
+    "research_status": "Concept only — location, electricity and regulatory research pending."
+  },
+  {
+    "id": "energy-003",
+    "name": "Solar Equipment Distribution",
+    "category": "Energy, EV & Infrastructure",
+    "description": "Distribution of solar energy equipment.",
+    "overview": "A supply business distributing selected solar components to installers and customers.",
+    "customers": "Solar installers, EPC contractors and retailers.",
+    "model": "Wholesale and retail product margins.",
+    "research_status": "Concept only — manufacturer quotations pending."
+  },
+  {
+    "id": "energy-004",
+    "name": "Energy Audit Consultancy",
+    "category": "Energy, EV & Infrastructure",
+    "description": "Energy-use assessment for buildings and businesses.",
+    "overview": "A professional service identifying energy efficiency opportunities.",
+    "customers": "Commercial buildings, factories and institutions.",
+    "model": "Audit and consultancy fees.",
+    "research_status": "Concept only — professional qualification requirements pending."
+  },
+  {
+    "id": "energy-005",
+    "name": "EV Fleet Maintenance Centre",
+    "category": "Energy, EV & Infrastructure",
+    "description": "Maintenance coordination for electric vehicle fleets.",
+    "overview": "A service centre supporting permitted inspection and maintenance activities.",
+    "customers": "Fleet operators and commercial EV users.",
+    "model": "Maintenance packages and service contracts.",
+    "research_status": "Concept only — technical training and safety requirements pending."
+  },
+  {
+    "id": "energy-006",
+    "name": "Solar Street Lighting Solutions",
+    "category": "Energy, EV & Infrastructure",
+    "description": "Supply and installation of solar street lights.",
+    "overview": "A project business supplying solar-powered lighting systems.",
+    "customers": "Institutions, property developers and local bodies.",
+    "model": "Project supply and maintenance contracts.",
+    "research_status": "Concept only — tender and technical standards research pending."
+  },
+  {
+    "id": "energy-007",
+    "name": "Battery Recycling Coordination",
+    "category": "Energy, EV & Infrastructure",
+    "description": "Collection coordination for authorised battery recyclers.",
+    "overview": "A business organising compliant battery collection and channel partnerships.",
+    "customers": "Retailers, businesses and authorised recycling partners.",
+    "model": "Collection and service contracts.",
+    "research_status": "Concept only — battery waste rules and authorisations pending."
+  },
+  {
+    "id": "energy-008",
+    "name": "Energy Monitoring Software",
+    "category": "Energy, EV & Infrastructure",
+    "description": "Digital monitoring of energy consumption.",
+    "overview": "A software service presenting energy-use data for facilities.",
+    "customers": "Factories, offices and commercial properties.",
+    "model": "Software subscriptions and installation support.",
+    "research_status": "Concept only — technical validation pending."
+  },
+  {
+    "id": "energy-009",
+    "name": "Industrial Solar Project Support",
+    "category": "Energy, EV & Infrastructure",
+    "description": "Planning support for industrial solar projects.",
+    "overview": "A consultancy coordinating project documentation and supplier communication.",
+    "customers": "Factories and industrial property owners.",
+    "model": "Consultancy and project coordination fees.",
+    "research_status": "Concept only — engineering and regulatory scope review pending."
+  },
+  {
+    "id": "energy-010",
+    "name": "EV Charging Software Platform",
+    "category": "Energy, EV & Infrastructure",
+    "description": "Software for managing EV charging locations.",
+    "overview": "A platform for charger monitoring, bookings and operational reporting.",
+    "customers": "Charging operators and fleet businesses.",
+    "model": "Software subscriptions and transaction-based service fees.",
+    "research_status": "Concept only — technical and market validation pending."
+  },
+
+  {
+    "id": "mfg-001",
+    "name": "FRP Products Manufacturing",
+    "category": "Manufacturing & Industrial Products",
+    "description": "Manufacturing fibreglass-reinforced plastic products.",
+    "overview": "A production unit making selected FRP products for industrial, architectural and commercial uses.",
+    "customers": "Fabricators, contractors and industrial buyers.",
+    "model": "Custom manufacturing and wholesale supply.",
+    "research_status": "Concept only — material, machinery and safety research pending."
+  },
+  {
+    "id": "mfg-002",
+    "name": "Industrial Fabrication Workshop",
+    "category": "Manufacturing & Industrial Products",
+    "description": "Custom metal fabrication and assembly.",
+    "overview": "A workshop producing fabricated metal components based on customer specifications.",
+    "customers": "Factories, contractors and equipment manufacturers.",
+    "model": "Job-work and product manufacturing orders.",
+    "research_status": "Concept only — machinery and industrial safety research pending."
+  },
+  {
+    "id": "mfg-003",
+    "name": "Packaging Material Manufacturing",
+    "category": "Manufacturing & Industrial Products",
+    "description": "Production of packaging materials for businesses.",
+    "overview": "A manufacturing unit supplying selected packaging products to commercial customers.",
+    "customers": "Food businesses, manufacturers and retailers.",
+    "model": "Bulk orders and recurring supply agreements.",
+    "research_status": "Concept only — material standards and supplier quotations pending."
+  },
+  {
+    "id": "mfg-004",
+    "name": "Industrial Fasteners Manufacturing",
+    "category": "Manufacturing & Industrial Products",
+    "description": "Manufacturing selected bolts, nuts and fasteners.",
+    "overview": "A precision manufacturing concept producing standardised industrial fasteners.",
+    "customers": "Engineering firms, manufacturers and distributors.",
+    "model": "Wholesale orders and industrial supply contracts.",
+    "research_status": "Concept only — machinery and quality certification research pending."
+  },
+  {
+    "id": "mfg-005",
+    "name": "Commercial Furniture Manufacturing",
+    "category": "Manufacturing & Industrial Products",
+    "description": "Production of furniture for offices and businesses.",
+    "overview": "A manufacturing business producing desks, storage and commercial furniture.",
+    "customers": "Offices, institutions and retailers.",
+    "model": "Custom orders and bulk product sales.",
+    "research_status": "Concept only — material and production costing pending."
+  },
+  {
+    "id": "mfg-006",
+    "name": "Industrial Safety Products",
+    "category": "Manufacturing & Industrial Products",
+    "description": "Manufacturing selected workplace safety products.",
+    "overview": "A production business supplying suitable safety products to industrial customers.",
+    "customers": "Factories, construction firms and distributors.",
+    "model": "Bulk supply and institutional orders.",
+    "research_status": "Concept only — applicable product standards pending."
+  },
+  {
+    "id": "mfg-007",
+    "name": "Water Tank Manufacturing",
+    "category": "Manufacturing & Industrial Products",
+    "description": "Manufacturing storage tanks for water applications.",
+    "overview": "A manufacturing unit producing suitable water storage products.",
+    "customers": "Households, contractors and commercial properties.",
+    "model": "Product sales and dealer distribution.",
+    "research_status": "Concept only — material and product standards pending."
+  },
+  {
+    "id": "mfg-008",
+    "name": "CNC Job Work Centre",
+    "category": "Manufacturing & Industrial Products",
+    "description": "Precision machining services for industrial customers.",
+    "overview": "A machining facility producing customer-specified components.",
+    "customers": "Engineering companies and manufacturers.",
+    "model": "Per-part charges and production contracts.",
+    "research_status": "Concept only — machinery and technical capability research pending."
+  },
+  {
+    "id": "mfg-009",
+    "name": "Electrical Panel Assembly",
+    "category": "Manufacturing & Industrial Products",
+    "description": "Assembly of permitted electrical control panels.",
+    "overview": "A specialist business assembling electrical panels to applicable specifications.",
+    "customers": "Industrial facilities, contractors and system integrators.",
+    "model": "Custom panel orders and service contracts.",
+    "research_status": "Concept only — electrical standards and qualified personnel required."
+  },
+  {
+    "id": "mfg-010",
+    "name": "Industrial Rubber Components",
+    "category": "Manufacturing & Industrial Products",
+    "description": "Production of selected rubber components.",
+    "overview": "A manufacturing business supplying rubber components for industrial applications.",
+    "customers": "Automotive suppliers, machinery makers and industrial distributors.",
+    "model": "Bulk orders and component supply agreements.",
+    "research_status": "Concept only — tooling and material research pending."
+  },
+
+  {
+    "id": "retail-001",
+    "name": "Niche E-commerce Store",
+    "category": "E-commerce & Retail",
+    "description": "Online retail focused on a specific product category.",
+    "overview": "An online store specialising in a clearly defined customer and product segment.",
+    "customers": "Online shoppers within the chosen niche.",
+    "model": "Product sales and repeat customer purchases.",
+    "research_status": "Concept only — niche and demand validation pending."
+  },
+  {
+    "id": "retail-002",
+    "name": "Private Label Consumer Products",
+    "category": "E-commerce & Retail",
+    "description": "A branded consumer product business using contract manufacturing.",
+    "overview": "A business developing its own brand and sourcing products from suitable manufacturers.",
+    "customers": "Retail customers and online shoppers.",
+    "model": "Branded product sales and distribution.",
+    "research_status": "Concept only — manufacturer and product compliance research pending."
+  },
+  {
+    "id": "retail-003",
+    "name": "Local Grocery Delivery",
+    "category": "E-commerce & Retail",
+    "description": "Online ordering and local grocery delivery.",
+    "overview": "A neighbourhood-focused grocery ordering and delivery service.",
+    "customers": "Households and local residents.",
+    "model": "Product margins and delivery charges.",
+    "research_status": "Concept only — logistics and local demand validation pending."
+  },
+  {
+    "id": "retail-004",
+    "name": "Custom Merchandise Store",
+    "category": "E-commerce & Retail",
+    "description": "Personalised merchandise and branded products.",
+    "overview": "A retail business selling customised clothing, accessories and promotional merchandise.",
+    "customers": "Individuals, creators and organisations.",
+    "model": "Custom orders and online product sales.",
+    "research_status": "Concept only — supplier and demand research pending."
+  },
+  {
+    "id": "retail-005",
+    "name": "Home Improvement Retail Store",
+    "category": "E-commerce & Retail",
+    "description": "Retail of home improvement and maintenance products.",
+    "overview": "A store supplying selected tools, fittings and home improvement products.",
+    "customers": "Homeowners, contractors and maintenance professionals.",
+    "model": "Retail and wholesale product margins.",
+    "research_status": "Concept only — location and supplier research pending."
+  },
+  {
+    "id": "retail-006",
+    "name": "Online Stationery Store",
+    "category": "E-commerce & Retail",
+    "description": "Online sale of educational and office stationery.",
+    "overview": "An e-commerce business selling selected stationery and office supplies.",
+    "customers": "Students, schools, offices and institutions.",
+    "model": "Product sales and bulk orders.",
+    "research_status": "Concept only — demand and sourcing research pending."
+  },
+  {
+    "id": "retail-007",
+    "name": "Electronics Accessories Retail",
+    "category": "E-commerce & Retail",
+    "description": "Retail of permitted electronic accessories.",
+    "overview": "A specialised retail business selling selected accessories for consumer electronics.",
+    "customers": "Phone, computer and gadget users.",
+    "model": "Retail and online product sales.",
+    "research_status": "Concept only — product sourcing and quality validation pending."
+  },
+  {
+    "id": "retail-008",
+    "name": "Furniture E-commerce Brand",
+    "category": "E-commerce & Retail",
+    "description": "Online furniture sales with delivery coordination.",
+    "overview": "An online brand offering selected furniture products and customer support.",
+    "customers": "Households, offices and property owners.",
+    "model": "Product margins and customised orders.",
+    "research_status": "Concept only — shipping and supplier economics pending."
+  },
+  {
+    "id": "retail-009",
+    "name": "Regional Products Marketplace",
+    "category": "E-commerce & Retail",
+    "description": "Online marketplace for regional Indian products.",
+    "overview": "A digital platform connecting regional producers with customers.",
+    "customers": "Artisans, producers and online shoppers.",
+    "model": "Marketplace commission and seller services.",
+    "research_status": "Concept only — logistics and seller validation pending."
+  },
+  {
+    "id": "retail-010",
+    "name": "Reusable Packaging Retail Brand",
+    "category": "E-commerce & Retail",
+    "description": "Retail of reusable household and business packaging.",
+    "overview": "A consumer brand selling selected reusable packaging alternatives.",
+    "customers": "Households, retailers and food businesses.",
+    "model": "Direct product sales and business supply contracts.",
+    "research_status": "Concept only — product performance and sourcing research pending."
+  },
+
+  {
+    "id": "agri-001",
+    "name": "Food Processing Unit",
+    "category": "Agriculture & Food Processing",
+    "description": "Processing agricultural produce into packaged food products.",
+    "overview": "A small or medium processing operation focused on selected agricultural products.",
+    "customers": "Retailers, wholesalers and food distributors.",
+    "model": "Packaged product sales and bulk supply.",
+    "research_status": "Concept only — food safety and machinery research pending."
+  },
+  {
+    "id": "agri-002",
+    "name": "Dehydrated Vegetable Manufacturing",
+    "category": "Agriculture & Food Processing",
+    "description": "Production of dehydrated vegetables.",
+    "overview": "A processing unit removing moisture from suitable vegetables for storage and distribution.",
+    "customers": "Food manufacturers, retailers and food-service businesses.",
+    "model": "Bulk product sales and private-label supply.",
+    "research_status": "Concept only — equipment, shelf-life and food compliance research pending."
+  },
+  {
+    "id": "agri-003",
+    "name": "Cold Storage Services",
+    "category": "Agriculture & Food Processing",
+    "description": "Temperature-controlled storage for agricultural goods.",
+    "overview": "A storage business providing appropriate cold-chain facilities.",
+    "customers": "Farmers, traders and food distributors.",
+    "model": "Storage rental and handling fees.",
+    "research_status": "Concept only — energy, infrastructure and demand research pending."
+  },
+  {
+    "id": "agri-004",
+    "name": "Dairy Product Processing",
+    "category": "Agriculture & Food Processing",
+    "description": "Processing milk into selected dairy products.",
+    "overview": "A dairy processing business producing permitted products for local or regional markets.",
+    "customers": "Retailers, households and food businesses.",
+    "model": "Product sales and distribution.",
+    "research_status": "Concept only — food safety and dairy regulations pending."
+  },
+  {
+    "id": "agri-005",
+    "name": "Agricultural Equipment Rental",
+    "category": "Agriculture & Food Processing",
+    "description": "Rental services for agricultural equipment.",
+    "overview": "A service providing suitable farm equipment to users for temporary requirements.",
+    "customers": "Farmers and agricultural groups.",
+    "model": "Rental fees and seasonal service packages.",
+    "research_status": "Concept only — equipment cost and local demand pending."
+  },
+  {
+    "id": "agri-006",
+    "name": "Millet-Based Food Products",
+    "category": "Agriculture & Food Processing",
+    "description": "Manufacturing millet-based packaged food.",
+    "overview": "A food brand developing suitable products using millets.",
+    "customers": "Retailers, households and food distributors.",
+    "model": "Packaged food sales and distribution.",
+    "research_status": "Concept only — food compliance and customer validation pending."
+  },
+  {
+    "id": "agri-007",
+    "name": "Organic Farming Support Services",
+    "category": "Agriculture & Food Processing",
+    "description": "Support and coordination services for organic producers.",
+    "overview": "A business helping farmers with documentation, market connections and operational coordination.",
+    "customers": "Farmers, producer groups and buyers.",
+    "model": "Service fees and market coordination contracts.",
+    "research_status": "Concept only — certification and service scope review pending."
+  },
+  {
+    "id": "agri-008",
+    "name": "Spice Processing and Packaging",
+    "category": "Agriculture & Food Processing",
+    "description": "Cleaning, grinding and packaging selected spices.",
+    "overview": "A processing business producing packaged spices for retail and wholesale markets.",
+    "customers": "Retailers, distributors and food businesses.",
+    "model": "Branded product sales and bulk supply.",
+    "research_status": "Concept only — food safety and equipment research pending."
+  },
+  {
+    "id": "agri-009",
+    "name": "Agricultural Produce Marketplace",
+    "category": "Agriculture & Food Processing",
+    "description": "Digital connection between agricultural producers and buyers.",
+    "overview": "A platform helping producers and buyers discover potential trading partners.",
+    "customers": "Farmers, traders, processors and institutional buyers.",
+    "model": "Marketplace fees and business subscriptions.",
+    "research_status": "Concept only — operations and market validation pending."
+  },
+  {
+    "id": "agri-010",
+    "name": "Fruit Pulp Processing",
+    "category": "Agriculture & Food Processing",
+    "description": "Processing fruit into pulp for food businesses.",
+    "overview": "A food processing unit producing fruit pulp for suitable commercial applications.",
+    "customers": "Beverage makers, food manufacturers and distributors.",
+    "model": "Bulk pulp supply and seasonal contracts.",
+    "research_status": "Concept only — food safety, cold chain and equipment research pending."
+  },
+
+  {
+    "id": "edu-001",
+    "name": "Online Skill Learning Platform",
+    "category": "Education & Professional Services",
+    "description": "Online courses for practical professional skills.",
+    "overview": "A learning platform offering structured courses in selected skills.",
+    "customers": "Students, job seekers and working professionals.",
+    "model": "Course fees and institutional subscriptions.",
+    "research_status": "Concept only — curriculum and demand validation pending."
+  },
+  {
+    "id": "edu-002",
+    "name": "Technical Training Institute",
+    "category": "Education & Professional Services",
+    "description": "Practical technical training for learners.",
+    "overview": "A training centre delivering appropriate technical and vocational courses.",
+    "customers": "Students, job seekers and local organisations.",
+    "model": "Course fees and institutional contracts.",
+    "research_status": "Concept only — affiliation and training requirements pending."
+  },
+  {
+    "id": "edu-003",
+    "name": "Engineering Design Consultancy",
+    "category": "Education & Professional Services",
+    "description": "Technical design and drafting services.",
+    "overview": "A professional service providing permitted drafting and design support.",
+    "customers": "Engineering firms, architects and contractors.",
+    "model": "Project fees and service contracts.",
+    "research_status": "Concept only — professional competence and scope review pending."
+  },
+  {
+    "id": "edu-004",
+    "name": "Digital Marketing Agency",
+    "category": "Education & Professional Services",
+    "description": "Online marketing services for organisations.",
+    "overview": "An agency providing content planning, website support and digital campaign management.",
+    "customers": "Small businesses, creators and institutions.",
+    "model": "Monthly retainers and project fees.",
+    "research_status": "Concept only — client demand and competition research pending."
+  },
+  {
+    "id": "edu-005",
+    "name": "Career Guidance Platform",
+    "category": "Education & Professional Services",
+    "description": "Educational career information and guidance.",
+    "overview": "A platform providing career information, learning pathways and educational resources.",
+    "customers": "Students, parents and educational institutions.",
+    "model": "Institutional subscriptions and educational services.",
+    "research_status": "Concept only — counsellor qualifications and content review pending."
+  },
+  {
+    "id": "edu-006",
+    "name": "3D Design Training Studio",
+    "category": "Education & Professional Services",
+    "description": "Training in 3D modelling and visualisation.",
+    "overview": "A training studio teaching suitable 3D design tools and project workflows.",
+    "customers": "Students, designers and professionals.",
+    "model": "Course fees and workshops.",
+    "research_status": "Concept only — software and curriculum research pending."
+  },
+  {
+    "id": "edu-007",
+    "name": "Business Documentation Services",
+    "category": "Education & Professional Services",
+    "description": "Preparation and organisation of business documents.",
+    "overview": "A professional support service helping businesses organise routine documentation.",
+    "customers": "Entrepreneurs, small businesses and consultants.",
+    "model": "Document service fees and retainers.",
+    "research_status": "Concept only — legal boundaries and service scope review pending."
+  },
+  {
+    "id": "edu-008",
+    "name": "Corporate Training Agency",
+    "category": "Education & Professional Services",
+    "description": "Workplace training for company teams.",
+    "overview": "A training provider offering communication, productivity and digital skills programmes.",
+    "customers": "Companies, institutions and professional teams.",
+    "model": "Training sessions and annual contracts.",
+    "research_status": "Concept only — trainer and curriculum validation pending."
+  },
+  {
+    "id": "edu-009",
+    "name": "CAD Design Service",
+    "category": "Education & Professional Services",
+    "description": "Computer-aided drafting and design support.",
+    "overview": "A design service producing drawings and models within appropriate professional scope.",
+    "customers": "Architects, engineers and manufacturers.",
+    "model": "Per-project design charges.",
+    "research_status": "Concept only — software and professional scope research pending."
+  },
+  {
+    "id": "edu-010",
+    "name": "Educational Content Production Studio",
+    "category": "Education & Professional Services",
+    "description": "Creation of learning videos and digital study material.",
+    "overview": "A content studio producing educational media for institutions and publishers.",
+    "customers": "Schools, training providers and online learning platforms.",
+    "model": "Production fees and content licensing.",
+    "research_status": "Concept only — copyright and client demand review pending."
+  },
+
+  {
+    "id": "log-001",
+    "name": "Local Logistics Coordination",
+    "category": "Logistics, Recycling & Environment",
+    "description": "Delivery coordination for local businesses.",
+    "overview": "A service coordinating local deliveries between businesses and customers.",
+    "customers": "Retailers, distributors and service providers.",
+    "model": "Delivery coordination and service fees.",
+    "research_status": "Concept only — transport and operational research pending."
+  },
+  {
+    "id": "log-002",
+    "name": "Warehouse Management Services",
+    "category": "Logistics, Recycling & Environment",
+    "description": "Warehouse organisation and operational support.",
+    "overview": "A service supporting inventory organisation, dispatch and warehouse processes.",
+    "customers": "Distributors, manufacturers and e-commerce businesses.",
+    "model": "Management contracts and service fees.",
+    "research_status": "Concept only — facility and workforce research pending."
+  },
+  {
+    "id": "log-003",
+    "name": "Recyclable Material Collection",
+    "category": "Logistics, Recycling & Environment",
+    "description": "Collection coordination for recyclable materials.",
+    "overview": "A business organising collection and transfer to suitable authorised recycling partners.",
+    "customers": "Households, offices and commercial facilities.",
+    "model": "Collection contracts and material trading where permitted.",
+    "research_status": "Concept only — waste-management permissions pending."
+  },
+  {
+    "id": "log-004",
+    "name": "E-commerce Fulfilment Centre",
+    "category": "Logistics, Recycling & Environment",
+    "description": "Storage, packing and dispatch services for online sellers.",
+    "overview": "A fulfilment operation managing inventory and order dispatch for sellers.",
+    "customers": "Online retailers and small brands.",
+    "model": "Storage, picking, packing and handling fees.",
+    "research_status": "Concept only — warehouse and logistics costing pending."
+  },
+  {
+    "id": "log-005",
+    "name": "Plastic Recycling Unit",
+    "category": "Logistics, Recycling & Environment",
+    "description": "Processing selected recyclable plastic materials.",
+    "overview": "A recycling operation sorting and processing permitted plastic waste streams.",
+    "customers": "Manufacturers and authorised material buyers.",
+    "model": "Processed material sales and service contracts.",
+    "research_status": "Concept only — pollution-control approvals and machinery research pending."
+  },
+  {
+    "id": "log-006",
+    "name": "Reverse Logistics Services",
+    "category": "Logistics, Recycling & Environment",
+    "description": "Returns collection and processing coordination.",
+    "overview": "A logistics service managing product returns and movement through suitable channels.",
+    "customers": "E-commerce sellers and retailers.",
+    "model": "Per-return fees and logistics contracts.",
+    "research_status": "Concept only — operational demand validation pending."
+  },
+  {
+    "id": "log-007",
+    "name": "Waste Segregation Services",
+    "category": "Logistics, Recycling & Environment",
+    "description": "Waste sorting support for institutions and businesses.",
+    "overview": "A service helping facilities organise waste segregation and authorised disposal.",
+    "customers": "Housing societies, offices and commercial facilities.",
+    "model": "Monthly service contracts.",
+    "research_status": "Concept only — local waste rules and permissions pending."
+  },
+  {
+    "id": "log-008",
+    "name": "Industrial Scrap Management",
+    "category": "Logistics, Recycling & Environment",
+    "description": "Organised scrap handling and recovery coordination.",
+    "overview": "A service supporting the documentation, sorting and sale of permitted industrial scrap.",
+    "customers": "Factories, workshops and recycling businesses.",
+    "model": "Service fees and authorised material trading.",
+    "research_status": "Concept only — material handling and legal compliance pending."
+  },
+  {
+    "id": "log-009",
+    "name": "Cold Chain Logistics",
+    "category": "Logistics, Recycling & Environment",
+    "description": "Temperature-controlled transport coordination.",
+    "overview": "A logistics operation moving suitable temperature-sensitive goods.",
+    "customers": "Food producers, distributors and healthcare suppliers.",
+    "model": "Transport contracts and delivery charges.",
+    "research_status": "Concept only — vehicle, monitoring and regulatory research pending."
+  },
+  {
+    "id": "log-010",
+    "name": "Water Management Consultancy",
+    "category": "Logistics, Recycling & Environment",
+    "description": "Water-use assessment and management support.",
+    "overview": "A consultancy helping organisations understand water use and identify efficiency improvements.",
+    "customers": "Factories, institutions and commercial buildings.",
+    "model": "Assessment fees and consultancy contracts.",
+    "research_status": "Concept only — technical qualifications and project validation pending."
+  }
+]
